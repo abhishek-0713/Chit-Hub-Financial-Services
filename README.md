@@ -1,5 +1,3 @@
-# Chit-Hub_FinancialServices
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -20,7 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]](https://github.com/abhishek-0713/Chit-Hub_FinancialServices/graphs/contributors)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -33,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/105943862/209985210-41924ab4-14ab-4dbc-924b-decbbab6815f.png" alt="Logo" width="400" >
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">CHIT HUB</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Financial Services Management Java Spring Boot Application !
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+`Chit Hub Financial Services`
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -104,7 +102,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Here is the list of major frameworks/libraries used to bootstrap our project. 
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
