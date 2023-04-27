@@ -100,7 +100,7 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Built With
+<!-- ### Built With
 
 Here is the list of major frameworks/libraries used to bootstrap our project. 
 
@@ -113,7 +113,7 @@ Here is the list of major frameworks/libraries used to bootstrap our project.
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
